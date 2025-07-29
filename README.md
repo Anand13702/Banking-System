@@ -1,12 +1,34 @@
-# React + Vite
+# 💳 Banking System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Banking System web application built using **HTML**, **CSS**, **JavaScript**, and **React**. This project simulates basic banking functionalities like viewing customers, transferring money, and viewing transaction history.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here to view the live project](#)  
+*(Add your live demo link here, e.g., from Netlify, Vercel, or GitHub Pages)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- View all customers and their account details
+- Transfer money between customers
+- Transaction history log
+- Responsive design for desktop and mobile
+- Clean and intuitive UI built with React
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the application
+- **CSS3** – Styling and layout
+- **JavaScript (ES6+)** – Logic and interactivity
+- **React.js** – UI components and state management
+- **React Router** – Navigation between pages
+- **Context API / useState** – State handling (if applicable)
+
+---
+
+## 📁 Folder Structure
+
