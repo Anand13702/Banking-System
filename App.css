@@ -1,0 +1,40 @@
+.container {
+
+  align-items: center center;
+  position: absolute;
+  left: 480px;
+  top: 80px;
+  height: 60%;
+  width: 200px;
+  display: block;
+  padding: 20px;
+  text: white;
+  background-image: url('https://images.pexels.com/photos/259200/pexels-photo-259200.jpeg?cs=srgb&dl=pexels-pixabay-259200.jpg&fm=jpg&_gl=1*1lzb7ov*_ga*MTk1OTcxMDAuMTc1MzUyMDMzNA..*_ga_8JE65Q40S6*czE3NTM1MjAzMzMkbzEkZzEkdDE3NTM1MjEzNzMkajYwJGwwJGgw');
+  border: 2px solid black;
+  background-size: cover ;
+}
+
+body {
+  background-image: url('https://images.pexels.com/photos/50987/money-card-business-credit-card-50987.jpeg?cs=srgb&dl=pexels-pixabay-50987.jpg&fm=jpg&_gl=1*119hmiq*_ga*MTk1OTcxMDAuMTc1MzUyMDMzNA..*_ga_8JE65Q40S6*czE3NTM1MjAzMzMkbzEkZzAkdDE3NTM1MjAzMzMkajYwJGwwJGgw');
+  /* Path to your image */
+  background-size: cover;
+  /* Cover full screen */
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  /* Full viewport height */
+  margin: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.btn{
+  background: #936666;
+  color: white;
+  width: 35%;
+  height: 20%;
+  position: absolute;
+  left: 10vh;
+  top: 50vh;
+  border-radius: 45px;
+  border:5px solid aliceblue;
+ 
+}
